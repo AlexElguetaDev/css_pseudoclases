@@ -85,7 +85,7 @@ V. Establezca el color de fondo en rojo, de la primera línea del párrafo.
 ```
 <head>
 <style>
-p:first-line{
+.intro:first-line{
   background-color: red;
 }
 </style>
