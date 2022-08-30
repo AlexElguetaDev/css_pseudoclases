@@ -63,7 +63,7 @@ VI. Establezca el color de fondo en rojo, de cualquier elemento `<input>` que es
 
 ```
 <style>
-form:first-child{
+input:focus{
   background-color: red;
 }
 </style>
